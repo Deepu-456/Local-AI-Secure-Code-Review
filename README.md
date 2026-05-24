@@ -242,7 +242,3 @@ The tool auto-selects the best model based on available memory. Override with `-
 - **No telemetry** — the tool makes no external network calls except to your Ollama instance.
 - **No API keys** — no OpenAI, Anthropic, or other cloud API dependencies.
 - **Safe for proprietary code** — review sensitive codebases without disclosure risk.
-
-## License
-
-MIT
