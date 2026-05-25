@@ -1,5 +1,5 @@
-# SecureCodeReview
-
+# Secure_Code_Review
+  
 > AI-powered source code analysis that runs 100% locally. Zero cloud calls, zero data leaks, zero API keys.
 
 Uses [Ollama](https://ollama.com) and any local LLM to scan source code for security vulnerabilities, bugs, performance bottlenecks, and code quality issues — all on your machine.
